@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363478551035",
+    "project_id": "psonalapp",
+    "storage_bucket": "psonalapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363478551035:android:ce977b30c54e71d81ea35e",
+        "android_client_info": {
+          "package_name": "com.example.personalinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363478551035-enps76mndakit29e9st80v9o4v9mc9cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa2Tq-EOm0udWctXtkwlPc_RmQd3AaIm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363478551035-enps76mndakit29e9st80v9o4v9mc9cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
